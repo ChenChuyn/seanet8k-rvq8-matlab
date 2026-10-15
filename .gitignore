@@ -1,0 +1,24 @@
+# Keep training speech and generated audio local.
+/data/**
+!/data/.gitkeep
+*.wav
+*.WAV
+/evaluation*/
+/demo_output/
+
+# Local MATLAB and training session files.
+*.asv
+*.m~
+*.log
+*.lock
+STOP_TRAINING
+test_results.mat
+
+# New experiments and exported archives.
+/models_*/
+/quick_models/
+/quick_model.mat
+/model_new.mat
+*.zip
+.DS_Store
+Thumbs.db

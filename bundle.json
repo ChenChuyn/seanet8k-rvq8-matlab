@@ -1,0 +1,14 @@
+{
+  "Format": "SEANet8k_RVQ8",
+  "SampleRate": 8000,
+  "Hop": 320,
+  "Codebooks": 8,
+  "EntriesPerCodebook": 256,
+  "LatentDim": 128,
+  "PayloadBitrate": 1600,
+  "ModelID": "f998bebe0ba45646cbbb26f0b93ade54",
+  "TrainedSteps": 400,
+  "IncludesCheckpoint": true,
+  "DatasetIncluded": false,
+  "MATLABRelease": "2025b"
+}

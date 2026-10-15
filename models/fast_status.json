@@ -1,0 +1,13 @@
+{
+  "Status": "paused",
+  "Epoch": 3,
+  "NextBatch": 1,
+  "FastStep": 400,
+  "GlobalStep": 400,
+  "BatchSize": 16,
+  "PoolSize": 512,
+  "StepsPerEpoch": 200,
+  "ClipsPerSecond": 52.465348358928168,
+  "BestValidationLoss": 2.0993950366973877,
+  "Sampling": "random 1-second crops; GPU cache"
+}
